@@ -18,7 +18,7 @@ export default function DownloadSection() {
           className="glass rounded-3xl p-8"
         >
           <p className="uppercase tracking-widest text-xs text-neon-blue">Aplikasi Resmi</p>
-          <h2 className="font-display text-3xl sm:text-4xl mt-2 neon-text">MARGA NANIME APP</h2>
+          <h2 className="font-display text-3xl sm:text-4xl mt-2 neon-text">NANIME ID APP</h2>
           <p className="text-white/70 mt-3">Nikmati semua fitur komunitas dalam genggaman. Tersedia gratis di Google Play.</p>
 
           <div className="flex items-center gap-4 mt-5 text-sm text-white/70">
