@@ -1,0 +1,9 @@
+[
+  { "id": "b1", "name": "Cherry", "rarity": "Common", "color": "#f9a8d4" },
+  { "id": "b2", "name": "Ocean", "rarity": "Common", "color": "#67e8f9" },
+  { "id": "b3", "name": "Ember", "rarity": "Rare", "color": "#fb923c" },
+  { "id": "b4", "name": "Forest", "rarity": "Rare", "color": "#86efac" },
+  { "id": "b5", "name": "Aurora", "rarity": "Epic", "color": "#a78bfa" },
+  { "id": "b6", "name": "Phoenix", "rarity": "Legendary", "color": "#f43f5e" },
+  { "id": "b7", "name": "Celestial", "rarity": "Mythic", "color": "#22d3ee" }
+]

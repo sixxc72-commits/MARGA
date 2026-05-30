@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+html, body { background: #05030a; color: #f5f3ff; }
+
+.glass {
+  background: linear-gradient(135deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(168,85,247,0.18);
+}
+.neon-text {
+  background: linear-gradient(90deg,#a855f7,#22d3ee,#ec4899);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+
+@keyframes particle-rise {
+  0% { transform: translateY(100vh) scale(.4); opacity: 0; }
+  10% { opacity: 1; }
+  100% { transform: translateY(-10vh) scale(1); opacity: 0; }
+}
