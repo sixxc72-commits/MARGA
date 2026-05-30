@@ -7,11 +7,11 @@ export const SITE = {
 };
 
 export const PLAYSTORE_URL =
-  "https://play.google.com/store/apps/details?id=com.example.app";
+  "https://play.google.com/store/apps/details?id=com.nanime.id";
 
 export const SOCIAL = {
   discord: "https://discord.gg/your-invite",
-  whatsapp: "https://chat.whatsapp.com/your-group",
+  whatsapp: "https://chat.whatsapp.com/CdfbX9c8yaZJ7RcPSYcN7l",
   github: "https://github.com/your-org",
   playstore: PLAYSTORE_URL
 };
