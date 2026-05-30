@@ -1,6 +1,6 @@
 Place your MP3 files here:
 
-- song1.mp3
+- https://github.com/sixxc72-commits/MARGA/releases/download/V1.0/Relaxing.Anime.Piano.OST.Playlist.for.Studying.and.Work.ft.RADWIMPS.Makoto.Shinkai.mp3
 - song2.mp3
 - song3.mp3
 
